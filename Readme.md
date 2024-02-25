@@ -1,33 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tamás Zoltán</h1>
+
 <h3 align="center">A passionate Java backend developer</h3>
 <h3 align="center">Main focus to learn something new every day</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cymaroncreel&label=Profile%20views&color=0e75b6&style=flat" alt="cymaroncreel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cymaroncreel" alt="cymaroncreel" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot, Html, CSS, Javascript**
-
-- 📫 How to reach me **cymar2005@yahoo.com zoltantamas2020@gmail.com**
-<h2 align="center">Projects</h2>
-<div>
-<a href="https://github.com/CymarOnCreel/CarFleetManagement.git">
-<img src="https://github.com/CymarOnCreel/CarFleetManagement/blob/main/CarFleetManager.jpg" height="220" width="350"></a>
-<a href="https://github.com/CymarOnCreel/programing-quiz.git"><img src="https://github.com/CymarOnCreel/programing-quiz/blob/main/programming_quiz.jpg" height="220" width="350"></a>
-<a href="https://github.com/CymarOnCreel/Snake-game-JavaFx.git"><img src="https://github.com/CymarOnCreel/Snake-game-JavaFx/blob/master/Snake_Game.jpg" height="220" width="250"></a>
-</div>
-<p align="center">
-<span align="left">CarFleetManager</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span align="center" >Programming Quiz WepApp</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span align="right">Retro Snake Game</span>
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamaszoltan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamaszoltan" height="30" width="40" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<p>
+- 📫 How to reach me: 
+    <strong><a href="mailto:cymar2005@yahoo.com" style="color: blue; text-decoration: underline;">cymar2005@yahoo.com</a></strong>,
+    <strong><a href="mailto:zoltantamas2020@gmail.com" style="color: blue; text-decoration: underline;">zoltantamas2020@gmail.com</a></strong>
+</p>
+    <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -43,6 +31,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<h2 align="center">Projects</h2>
+<div align="center">
+    <a href="https://github.com/CymarOnCreel/CarFleetManagement.git">
+        <img src="https://github.com/CymarOnCreel/CarFleetManagement/blob/main/CarFleetManager.jpg" height="220" width="370">
+    <p>CarFleetManager</p></a></div>
+<div align="center">
+    <a href="https://github.com/CymarOnCreel/programing-quiz.git">
+        <img src="https://github.com/CymarOnCreel/programing-quiz/blob/main/programming_quiz.jpg" height="220" width="370">
+    <p>Programming Quiz WepApp</p></a>
+</div>
+<div align="center">
+    <a href="https://github.com/CymarOnCreel/Snake-game-JavaFx.git">
+        <img src="https://github.com/CymarOnCreel/Snake-game-JavaFx/blob/master/Snake_Game.jpg" height="220" width="250">
+    <p>Retro Snake Game</p></a>
+</div>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cymaroncreel&show_icons=true&locale=en&layout=compact" alt="cymaroncreel" /></p>
 
