@@ -9,11 +9,23 @@
 - 🌱 I’m currently learning **SpringBoot, Html, CSS, Javascript**
 
 - 📫 How to reach me **cymar2005@yahoo.com zoltantamas2020@gmail.com**
-<h2 alignt="center">Projects</h2>
-<a href="https://github.com/CymarOnCreel/CarFleetManagement.git"
+<h2 align="center">Projects</h2>
+<div>
+<a href="https://github.com/CymarOnCreel/CarFleetManagement.git">
+<img src="https://github.com/CymarOnCreel/CarFleetManagement/blob/main/CarFleetManager.jpg" height="220" width="350"></a>
+<a href="https://github.com/CymarOnCreel/programing-quiz.git"><img src="https://github.com/CymarOnCreel/programing-quiz/blob/main/programming_quiz.jpg" height="220" width="350"></a>
+<a href="https://github.com/CymarOnCreel/Snake-game-JavaFx.git"><img src="https://github.com/CymarOnCreel/Snake-game-JavaFx/blob/master/Snake_Game.jpg" height="220" width="250"></a>
+</div>
+<p align="center">
+<span align="left">CarFleetManager</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center" >Programming Quiz WepApp</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="right">Retro Snake Game</span>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tamaszoltan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamaszoltan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tamaszoltan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamaszoltan" height="30" width="40" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
